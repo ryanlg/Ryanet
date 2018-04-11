@@ -1,3 +1,6 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/xmomowan/Ryanet-blog
+[submodule "avantgarde/dumpbucket"]
+	path = avantgarde/dumpbucket
+	url = https://github.com/xmomowan/dumpbucket.git
